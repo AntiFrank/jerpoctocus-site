@@ -1,0 +1,26 @@
+{
+  "name": "jercoctopus-site",
+  "version": "0.0.0",
+  "description": "Test Site",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.12.3",
+    "mongoose": "^3.8.19",
+    "npm": "^1.4.9",
+    "path": "^0.11.14"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AntiFrank/jercoctopus-site.git"
+  },
+  "author": "AntiFrank",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntiFrank/jercoctopus-site/issues"
+  },
+  "homepage": "https://github.com/AntiFrank/jercoctopus-site"
+}
